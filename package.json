@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "alpinejs": "^3.3.3",
+    "alpinejs": "^3.4.2",
     "html-minifier": "^4.0.0"
   }
 }
